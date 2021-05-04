@@ -1,0 +1,307 @@
+body{
+
+	 background-color: black;
+}
+
+.iphone5-screenshot{
+
+	width: 40%;
+	height: 20%;
+}
+
+.profile-picture{
+  color: white;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 4px;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 2px #5c5c5c; /*rgba(0,0,0,.15);*/
+  margin-left: 22rem;
+}
+
+.container-profile{
+
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	box-shadow: 2px 2px 2px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 2rem;
+	padding-top: 2rem;
+}
+
+.container-profile>h2{
+	color: #fff;
+	font-size: 33px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.container-profile>p{
+	color: white;
+}
+.container-profile>a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	padding-left: 2rem;
+	margin: 0
+}
+
+.phone_number{
+
+	  float: right;
+	  padding-right: 2rem;
+}
+
+/* container-about */
+.container-about{
+    
+    color: #fff;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	box-shadow: 2px 2px 2px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+	text-transform: uppercase;
+}
+
+.container-about>h1{
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.container-about>p{
+
+	text-align: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.51rem;
+}
+
+/* container-Contact */
+/* container-form */
+
+.container-form{
+   
+   color: #fff;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	text-align: center;
+	box-shadow: 1px 2px 2px 1px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+	text-transform: uppercase;
+}
+.form{
+	display: block;
+	margin-top: 0em;
+}
+
+.container-Contact{
+	color: #fff;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	text-align: center;
+	box-shadow: 1px 2px 2px 1px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+	text-transform: uppercase;
+}
+/* container-Experience */
+
+h3{
+
+	
+	box-sizing: border-box;
+	text-align: left;
+	padding-top: 1rem;
+	padding-left: 1rem;
+	text-transform: uppercase;
+
+}
+
+h5{
+
+	
+	box-sizing: border-box;
+	text-align: left;
+	padding-top: 0.5rem;
+	padding-left: 1rem;
+	padding-bottom: 0.5rem;
+	text-transform: uppercase;
+
+}
+.container-Experience{
+   
+   color: #fff;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	text-align: center;
+	box-shadow: 2px 2px 2px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 2rem;
+	padding-top: 1rem;
+	text-transform: uppercase;
+}
+p{
+	text-align: left;
+	padding-left: 1rem;
+	font-size: 1rem;
+
+}
+
+.secondary-title,.separator{
+
+	   text-align: left;
+}
+
+/* Hr */ 
+
+hr{
+	border: 1px solid white;
+	border-radius: 200;
+	color: red;
+}
+
+/* TESTDOME */
+.certifications-entity{
+     
+      text-decoration: none;
+      float: left;
+      padding-left: 1rem;
+ 
+	}
+
+a{
+	 float: left;
+	 padding-left: 2rem;
+}
+
+/* container-portfolio */
+
+.container-portfolio{
+
+	color: #fff;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	text-align: center;
+	box-shadow: 2px 2px 2px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 2rem;
+	padding-top: 1rem;
+	margin-top: 16rem;
+	text-transform: uppercase;
+
+}
+  
+ /* skill-category */
+
+.container-Skill{
+   
+   color: #fff;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	text-align: center;
+	box-shadow: 2px 2px 2px #5c5c5c;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-bottom: 10px;
+	padding-bottom: 2rem;
+	padding-top: 2rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	margin-top: 0rem;
+	text-align: center;
+	text-transform: uppercase;
+
+ 
+}
+
+.container-Skill>p{
+	text-align:  center;
+}
+
+.skill-category{
+	text-align: left;
+}
+
+/* SKILL BAR */ 
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  color: white;
+}
+
+.html {width: 85%; background-color: #4CAF50;}
+.css {width: 85%; background-color: #2196F3;}
+.js {width: 40%; background-color: #f44336;}
+.php {width: 25%; background-color: #808080;}
+
+
+/* TestDome */ 
+
+.certifications{
+	text-decoration: none;
+	padding-bottom: 2rem;
+
+}
+
+.certifications>.Issued_Date{
+	text-align: center;
+	text-decoration: none;
+}
+
+.certifications>a{
+
+	padding-left: 1rem;
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	font-weight: 500;
+	text-align: center;
+	margin-left: 41%;
+}
+
+.TestDome>a{
+
+	text-align: center;
+}
+
+h4{
+	padding-left: 1rem;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+}
